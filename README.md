@@ -24,7 +24,7 @@ Convention:  `.jade.html`
 ## Install
 
 ``` bash
-docpad install html2coffee
+docpad install html2jade
 ```
 
 
